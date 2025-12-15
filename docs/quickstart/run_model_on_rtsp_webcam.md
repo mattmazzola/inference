@@ -158,7 +158,7 @@ You should see something like this on your screen:
   <source src="https://storage.googleapis.com/com-roboflow-marketing/inference/people-walking-annotated.mp4" type="video/mp4">
 </video>
 
-And there you have it! We created a custom sink that takes the outputs of our Inference Pipeline, annotates an image, and displays it to our screen. See the [Inference Pipeline docs](/using_inference/inference_pipeline) to learn more about other configurable parameters and built in sinks.
+And there you have it! We created a custom sink that takes the outputs of our Inference Pipeline, annotates an image, and displays it to our screen. See the [Inference Pipeline docs](../../using_inference/inference_pipeline) to learn more about other configurable parameters and built in sinks.
 
 ## Existing Video Sinks
 
